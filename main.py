@@ -56,6 +56,8 @@ if __name__ == '__main__':
 
     print("################################################")
 
+    print("Nowa zmiana")
+
     # Display generated users
     for user in sample_data_modified:
         print(user)
